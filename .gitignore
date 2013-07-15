@@ -30,3 +30,10 @@
 *.vrb
 *.xdy
 *.tdo
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+auto/
+*.synctex.gz
